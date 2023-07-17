@@ -1,0 +1,22 @@
+body {
+  background-color: dimgrey;
+}
+
+.pageHeader {
+  text-align: center;
+  font-weight: bolder;
+  font-size: larger;
+  padding: 3em 0em 2em 0em;
+}
+
+.repPhoto {
+  display: flex;
+  justify-content: center;
+}
+
+.mainComponent {
+  display: flex;
+  text-align: justify;
+  justify-content: space-evenly;
+  line-height: 2em;
+}
